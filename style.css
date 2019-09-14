@@ -9,5 +9,9 @@ h1{
 }
 
 img{
-  
+  margin: 0 auto;
+}
+
+a{
+  padding: 10px;
 }
